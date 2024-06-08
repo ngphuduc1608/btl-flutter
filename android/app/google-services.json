@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260208023947",
+    "project_id": "ghichu-adb19",
+    "storage_bucket": "ghichu-adb19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260208023947:android:4522945f2a8484e8e3778e",
+        "android_client_info": {
+          "package_name": "com.example.notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc_A_i_tBIo_PG2kZS1AIhEKB4i1-ZuHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
