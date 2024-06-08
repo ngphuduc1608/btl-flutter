@@ -28,12 +28,12 @@
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/ngphuduc1608/btlflutter.git
+   git clone https://github.com/ngphuduc1608/btl-flutter.git
    ```
 
 2. Mở thư mục dự án này bằng **VS Code**:
    ```bash
-   cd btlflutter
+   cd btl-flutter
    ```
 
 3.
